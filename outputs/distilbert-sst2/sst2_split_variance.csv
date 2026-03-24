@@ -1,0 +1,2 @@
+eval_loss,eval_accuracy,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,split_seed
+0.19979171454906464,0.9480326651818857,5.8033,1160.553,18.266,3.0,27
